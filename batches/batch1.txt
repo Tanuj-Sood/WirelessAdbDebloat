@@ -1,0 +1,5 @@
+com.hisilicon.android.music
+com.hisilicon.higallery
+com.hisilicon.android.videoplayer
+com.android.gallery3d
+com.android.soundrecorder

@@ -1,0 +1,3 @@
+com.hisilicon.dlna.dmp
+com.hisilicon.dlna.dmr
+com.kitking.upgrade
